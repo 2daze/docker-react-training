@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there Abner, used with docker-compose!
+          Hi there Abner, I was changed on the feature branch!
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
